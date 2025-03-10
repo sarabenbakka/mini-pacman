@@ -39,3 +39,7 @@ python main.py
 - Click anywhere on the grid to move Pacman to that position
 - Press 'P' to pause/unpause the game
 - Close the window to exit
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/545819a2-5636-4d5e-8501-5538ca2e5a5e)
