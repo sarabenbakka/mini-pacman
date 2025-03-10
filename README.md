@@ -15,7 +15,7 @@ A simple Pacman-like game built with PyQt5 where you control a yellow ball (Pacm
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini-pacman.git
+git clone https://github.com/sarabenbakka/mini-pacman.git
 cd mini-pacman
 ```
 
